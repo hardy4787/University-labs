@@ -1,0 +1,53 @@
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.exe.config
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.exe
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.pdb
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csprojResolveAssemblyReference.cache
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.Form1.resources
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.Properties.Resources.resources
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.GenerateResource.Cache
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.exe
+c:\users\bogdan hristich\documents\visual studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.pdb
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.ResolveComReference.cache
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.FormMenu.resources
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.WeatherForm.resources
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.HouseManage.resources
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.UtilitiesForm.resources
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.CounterForm.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.exe.config
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.exe
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.pdb
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.ResolveComReference.cache
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.CounterForm.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.Form1.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.FormMenu.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.HouseManage.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.Properties.Resources.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.UtilitiesForm.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.WeatherForm.resources
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.GenerateResource.Cache
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.exe
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.pdb
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\BL.Objects.dll
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\BL.Objects.pdb
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\BL.Objects.dll
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\BL.Objects.pdb
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.exe.config
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.exe
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\SmartHouse by Fiksiki.pdb
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\BL.Objects.dll
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\bin\Debug\BL.Objects.pdb
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.ResolveComReference.cache
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.CounterForm.resources
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.Form1.resources
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.FormMenu.resources
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.HouseManage.resources
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.Properties.Resources.resources
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.UtilitiesForm.resources
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse_by_Fiksiki.WeatherForm.resources
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.GenerateResource.cache
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.csproj.CopyComplete
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.exe
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\SmartHouse by Fiksiki\obj\Debug\SmartHouse by Fiksiki.pdb

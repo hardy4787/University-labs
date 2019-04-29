@@ -1,0 +1,34 @@
+void function1(int);
+void function2(int);
+void function3(int);
+
+int main() {
+	void(*f[3])(int) = { function1, function2, function3 };
+	int choice;
+
+	setlocale(LC_ALL, "RUS");
+	cout << "Введите число между 0 и 2, 3 - окончание: ";
+	cin >> choice;
+
+	while (choice >= 0 && choice < 3) {
+		(*f[choice])(choice);
+		cout << "Введите число между 0 и 2, 3 - окончание: ";
+		cin >> choice;
+	}
+	cout << "Вы ввели 3 для окончания" << endl;
+	return 0;
+}
+
+void function1(int a) {
+	cout << "Вы ввели " << a << ", поэтому была вызвана функция 1"
+		<< endl << endl;
+}
+
+void function2(int b) {
+	cout << "Вы ввели " << b << ", поэтому была вызвана функция 2"
+		<< endl << endl;
+}
+
+void function3(int c) {
+	cout << "Вы ввели " << c << ", поэтому была вызвана функция 3"
+		<< endl << endl;

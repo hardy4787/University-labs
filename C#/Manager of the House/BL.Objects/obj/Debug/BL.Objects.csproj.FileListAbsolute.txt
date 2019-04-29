@@ -1,0 +1,15 @@
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\BL.Objects\bin\Debug\BL.Objects.dll
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\BL.Objects\bin\Debug\BL.Objects.pdb
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.dll
+C:\Users\Vladyslav\Desktop\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.pdb
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\BL.Objects\bin\Debug\BL.Objects.dll
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\BL.Objects\bin\Debug\BL.Objects.pdb
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.dll
+C:\Users\Bogdan Hristich\Documents\Visual Studio 2017\Projects\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.pdb
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\BL.Objects\bin\Debug\BL.Objects.dll
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\BL.Objects\bin\Debug\BL.Objects.pdb
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.dll
+C:\Users\BogdanHristich\source\repos\SmartHouse by Fiksiki\BL.Objects\obj\Debug\BL.Objects.pdb
